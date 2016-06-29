@@ -1,0 +1,26 @@
+body {
+  text-align:center;
+}
+
+#react-root {
+  background-color:yellow;
+}
+
+#navContainer {
+  background-color:#AACCEE;
+}
+
+.pagination {
+  margin-bottom: 0px;
+}
+
+#docsContainer {
+  display: inline-block;
+  width: 75%;
+  height: 325px;
+  overflow: auto;
+}
+
+.individualDoc{
+  background-color:#12CC56;
+}

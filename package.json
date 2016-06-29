@@ -1,0 +1,53 @@
+{
+  "name": "meteor-apollo-react-infinite-with-navigation",
+  "version": "0.0.1",
+  "description": "infinite scroll with navigation links using react-bootstrap, meteor, and apollo (graphql)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foundAhandle/meteor-apollo-react-infinite-with-navigation"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "react-bootstrap",
+    "infinite",
+    "scroll",
+    "navigation",
+    "meteor",
+    "apollo",
+    "graphql"
+  ],
+  "author": "foundahandle",
+  "license": "ISC",
+  "devDependencies": {
+    "autobind-decorator": "^1.3.3",
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.9.2",
+    "eslint-plugin-jsx-a11y": "^1.5.3",
+    "eslint-plugin-meteor": "^3.6.0",
+    "eslint-plugin-react": "^5.2.2",
+    "faker": "^3.1.0"
+  },
+  "dependencies": {
+    "apollo-client": "^0.3.20",
+    "apollo-server": "^0.1.5",
+    "babel-runtime": "^6.9.2",
+    "bootstrap": "^3.3.6",
+    "core-js": "^2.4.0",
+    "express": "^4.14.0",
+    "graphql-tools": "^0.6.0",
+    "http-proxy-middleware": "^0.16.0",
+    "mysql": "^2.11.1",
+    "react": "^15.1.0",
+    "react-addons-pure-render-mixin": "^15.1.0",
+    "react-apollo": "^0.3.10",
+    "react-bootstrap": "^0.29.5",
+    "react-dom": "^15.1.0",
+    "sequelize": "^3.23.4"
+  }
+}
